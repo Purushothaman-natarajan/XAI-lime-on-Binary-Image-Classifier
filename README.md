@@ -26,7 +26,7 @@ We utilized the LIME explainer to provide interpretable explanations for the mod
 
 Below is an example result from the LIME explainer:
 
-![LIME Explanation](images/lime_cat.png)
+![LIME Explanation](https://github.com/Purushothaman-natarajan/XAI-lime-on-Binary-Image-Classifier/blob/3a70e7e18bb0c111d0fdb1fd981cf741cb6139bf/lime_cat.png)
 
 In this visualization, the LIME explainer highlights the important regions in the input image that contributed to the model's prediction. The color-coded heatmap indicates the significance of each pixel in the prediction process, offering valuable insights into the model's decision-making process.
 
