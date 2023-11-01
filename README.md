@@ -26,7 +26,7 @@ We utilized the LIME explainer to provide interpretable explanations for the mod
 
 Below is an example result from the LIME explainer:
 
-![LIME Explanation](images/lime_explanation.png)
+![LIME Explanation](images/lime_cat.png)
 
 In this visualization, the LIME explainer highlights the important regions in the input image that contributed to the model's prediction. The color-coded heatmap indicates the significance of each pixel in the prediction process, offering valuable insights into the model's decision-making process.
 
