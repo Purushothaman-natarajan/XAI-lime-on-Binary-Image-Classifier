@@ -6,9 +6,9 @@ This project aims to provide transparent and interpretable explanations for the 
 
 This repository contains the following components:
 
-1. **Binary Image Classifier Model**: The core binary dog and cat image classifier model developed using deep learning techniques. You can find the model implementation in the `model` directory. For more details, please refer to the [model implementation](https://github.com/Purushothaman-natarajan/Binary-Image-Classification/tree/main/model).
+1. **Binary Image Classifier Model**: The core binary dog and cat image classifier model developed using deep learning techniques. You can find the model implementation in the `model` directory. For more details, please refer to the [model implementation](https://github.com/Purushothaman-natarajan/Binary-Image-Classification/).
 
-2. **Explainability using LIME**: The implementation of Local Interpretable Model-agnostic Explanations (LIME) to explain the predictions made by the binary classifier. LIME helps in understanding and interpreting the model's decisions at the local level. You can find the LIME implementation in the `explanation` directory. For more details, please refer to the [explanation implementation](https://github.com/Purushothaman-natarajan/Binary-Image-Classification/tree/main/explanation).
+2. **Explainability using LIME**: The implementation of Local Interpretable Model-agnostic Explanations (LIME) to explain the predictions made by the binary classifier. LIME helps in understanding and interpreting the model's decisions at the local level. You can find the LIME implementation in the `explanation` directory. For more details, please refer to the [explanation implementation](https://github.com/Purushothaman-natarajan/Binary-Image-Classification/).
 
 ## Implementation Details
 
