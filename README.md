@@ -1,6 +1,6 @@
 # XAI - LIME: Binary Dog and Cat Image Classifier Model
 
-LIME repository for the binary dog and cat image classifier model developed using Local Interpretable Model-agnostic Explanations (LIME). This project aims to provide transparent and interpretable explanations for the predictions made by the binary image classifier. You can find the model implementation, along with an interactive explanation using LIME, in this repository.
+This project aims to provide transparent and interpretable explanations for the predictions made by the binary image classifier. You can find the model implementation, along with an interactive explanation using LIME, in this repository.
 
 ## Repository Overview
 
